@@ -1,4 +1,4 @@
-class MF():
+class MultipleFunctions():
     def SubFields():
         print("Sub-Fields in AI are")
         list = ['Machine Learning', 'Neural Networks', 'Vision', 'Robotics', 'Speech Processing','Natural Language Processing']
